@@ -1,5 +1,5 @@
 # AllHackingTools
-allhacking tool profesionel
+allhacking tool professional
 
 
 cd hackingtool
